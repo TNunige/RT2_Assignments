@@ -1,0 +1,6 @@
+# GetLastTarget.srv
+---
+geometry_msgs/Point last_target
+
+
+
