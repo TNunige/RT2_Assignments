@@ -40,6 +40,6 @@ jupyter notebook
 ## Assignment 3
 ### Statistical Analysis of the first assignment of RESEARCH TRACK 1
 For the assignment 3, I performed the statistical analysis of the first assignment of RESEARCH TRACK 1.
-In the analysis, I compared the performance of the algorithm implemented by me with the one implemented by one of my collegues. The purpose of the analysis is to decide which algorithm is better when tokens are randomly placed in the environment.
+In the analysis, I compared the performance of the algorithm I implemented with the one implemented by one of my collegues. The purpose of the analysis is to decide which algorithm is better when tokens are randomly placed in the environment.
 
 You can find the report of the analysis named `RT2_3rd_assignment.pdf`
